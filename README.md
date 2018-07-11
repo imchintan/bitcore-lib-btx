@@ -1,17 +1,17 @@
-Bitcore Zelcash Library
+Bitcore btx Library
 =======
 
-A pure and powerful JavaScript ZelCash library.
+A pure and powerful JavaScript btx library.
 
 ## Principles
 
-ZelCash is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the ZelCash network allows for highly resilient ZelCash infrastructure, and the developer community needs reliable, open-source tools to implement Zelcash apps and services.
+btx is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the btx network allows for highly resilient btx infrastructure, and the developer community needs reliable, open-source tools to implement btx apps and services.
 
 ## Get Started
 
 ```
-git clone https://github.com/TheTrunk/bitcore-lib-zelcash.git
-cd bitcore-lib-zelcash
+git clone https://github.com/BTXinsight/bitcore-lib-btx.git
+cd bitcore-lib-btx
 npm install
 ```
 
@@ -27,15 +27,15 @@ To get community assistance and ask for help with implementation questions, plea
 
 ## Examples
 
-* [Generate a random address](https://github.com/TheTrunk/bitcore-lib-zelcash/blob/master/docs/examples.md#generate-a-random-address)
-* [Generate a address from a SHA256 hash](https://github.com/TheTrunk/bitcore-lib-zelcash/blob/master/docs/examples.md#generate-a-address-from-a-sha256-hash)
-* [Import an address via WIF](https://github.com/TheTrunk/bitcore-lib-zelcash/blob/master/docs/examples.md#import-an-address-via-wif)
-* [Create a Transaction](https://github.com/TheTrunk/bitcore-lib-zelcash/blob/master/docs/examples.md#create-a-transaction)
-* [Sign a ZelCash message](https://github.com/TheTrunk/bitcore-lib-zelcash/blob/master/docs/examples.md#sign-a-bitcoin-message)
-* [Verify a ZelCash message](https://github.com/TheTrunk/bitcore-lib-zelcash/blob/master/docs/examples.md#verify-a-bitcoin-message)
-* [Create an OP RETURN transaction](https://github.com/TheTrunk/bitcore-lib-zelcash/blob/master/docs/examples.md#create-an-op-return-transaction)
-* [Create a 2-of-3 multisig P2SH address](https://github.com/TheTrunk/bitcore-lib-zelcash/blob/master/docs/examples.md#create-a-2-of-3-multisig-p2sh-address)
-* [Spend from a 2-of-2 multisig P2SH address](https://github.com/TheTrunk/bitcore-lib-zelcash/blob/master/docs/examples.md#spend-from-a-2-of-2-multisig-p2sh-address)
+* [Generate a random address](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#generate-a-random-address)
+* [Generate a address from a SHA256 hash](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#generate-a-address-from-a-sha256-hash)
+* [Import an address via WIF](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#import-an-address-via-wif)
+* [Create a Transaction](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#create-a-transaction)
+* [Sign a btx message](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#sign-a-bitcoin-message)
+* [Verify a btx message](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#verify-a-bitcoin-message)
+* [Create an OP RETURN transaction](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#create-an-op-return-transaction)
+* [Create a 2-of-3 multisig P2SH address](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#create-a-2-of-3-multisig-p2sh-address)
+* [Spend from a 2-of-2 multisig P2SH address](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#spend-from-a-2-of-2-multisig-p2sh-address)
 
 
 ## Security
@@ -52,15 +52,15 @@ To build a bitcore-lib full bundle for the browser:
 gulp browser
 ```
 
-This will generate files named `bitcore-lib-zelcash.js` and `bitcore-lib-zelcash.min.js`.
+This will generate files named `bitcore-lib-btx.js` and `bitcore-lib-btx.min.js`.
 
 You can also use our pre-generated files
 
 ## Development & Tests
 
 ```sh
-git clone https://github.com/TheTrunk/bitcore-lib-zelcash
-cd bitcore-lib-zelcash
+git clone https://github.com/BTXinsight/bitcore-lib-btx
+cd bitcore-lib-btx
 npm install
 ```
 
@@ -75,6 +75,6 @@ or create a test coverage report (you can open `coverage/lcov-report/index.html`
 
 ## License
 
-Code released under [the MIT license](https://github.com/TheTrunk/bitcore-lib-zelcash/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/LICENSE).
 
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
