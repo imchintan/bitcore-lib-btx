@@ -10,7 +10,7 @@ btx is a powerful new peer-to-peer platform for the next generation of financial
 ## Get Started
 
 ```
-git clone https://github.com/BTXinsight/bitcore-lib-btx.git
+git clone https://github.com/LIMXTEC/bitcore-lib-btx.git
 cd bitcore-lib-btx
 npm install
 ```
@@ -27,15 +27,15 @@ To get community assistance and ask for help with implementation questions, plea
 
 ## Examples
 
-* [Generate a random address](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#generate-a-random-address)
-* [Generate a address from a SHA256 hash](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#generate-a-address-from-a-sha256-hash)
-* [Import an address via WIF](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#import-an-address-via-wif)
-* [Create a Transaction](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#create-a-transaction)
-* [Sign a btx message](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#sign-a-bitcoin-message)
-* [Verify a btx message](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#verify-a-bitcoin-message)
-* [Create an OP RETURN transaction](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#create-an-op-return-transaction)
-* [Create a 2-of-3 multisig P2SH address](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#create-a-2-of-3-multisig-p2sh-address)
-* [Spend from a 2-of-2 multisig P2SH address](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/docs/examples.md#spend-from-a-2-of-2-multisig-p2sh-address)
+* [Generate a random address](https://github.com/LIMXTEC/bitcore-lib-btx/blob/master/docs/examples.md#generate-a-random-address)
+* [Generate a address from a SHA256 hash](https://github.com/LIMXTEC/bitcore-lib-btx/blob/master/docs/examples.md#generate-a-address-from-a-sha256-hash)
+* [Import an address via WIF](https://github.com/LIMXTEC/bitcore-lib-btx/blob/master/docs/examples.md#import-an-address-via-wif)
+* [Create a Transaction](https://github.com/LIMXTEC/bitcore-lib-btx/blob/master/docs/examples.md#create-a-transaction)
+* [Sign a btx message](https://github.com/LIMXTEC/bitcore-lib-btx/blob/master/docs/examples.md#sign-a-bitcoin-message)
+* [Verify a btx message](https://github.com/LIMXTEC/bitcore-lib-btx/blob/master/docs/examples.md#verify-a-bitcoin-message)
+* [Create an OP RETURN transaction](https://github.com/LIMXTEC/bitcore-lib-btx/blob/master/docs/examples.md#create-an-op-return-transaction)
+* [Create a 2-of-3 multisig P2SH address](https://github.com/LIMXTEC/bitcore-lib-btx/blob/master/docs/examples.md#create-a-2-of-3-multisig-p2sh-address)
+* [Spend from a 2-of-2 multisig P2SH address](https://github.com/LIMXTEC/bitcore-lib-btx/blob/master/docs/examples.md#spend-from-a-2-of-2-multisig-p2sh-address)
 
 
 ## Security
@@ -59,7 +59,7 @@ You can also use our pre-generated files
 ## Development & Tests
 
 ```sh
-git clone https://github.com/BTXinsight/bitcore-lib-btx
+git clone https://github.com/LIMXTEC/bitcore-lib-btx
 cd bitcore-lib-btx
 npm install
 ```
@@ -75,6 +75,6 @@ or create a test coverage report (you can open `coverage/lcov-report/index.html`
 
 ## License
 
-Code released under [the MIT license](https://github.com/BTXinsight/bitcore-lib-btx/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/LIMXTEC/bitcore-lib-btx/blob/master/LICENSE).
 
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.

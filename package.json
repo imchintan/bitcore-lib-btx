@@ -86,7 +86,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BTXinsightk/bitcore-lib-btx.git"
+    "url": "https://github.com/LIMXTEC/bitcore-lib-btx.git"
   },
   "browser": {
     "request": "browser-request"
@@ -100,7 +100,7 @@
     "lodash": "=3.10.1"
   },
   "devDependencies": {
-    "bitcore-build-btx": "git://github.com/BTXinsight/bitcore-build-btx#master",
+    "bitcore-build-btx": "git://github.com/LIMXTEC/bitcore-build-btx#master",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
